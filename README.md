@@ -8,6 +8,7 @@
 <ul>
     <h1>Coffee </h1>
     <li> 아이스 아메리카노 </li>
+    <li> 카페라떼 </li>
 </ul>  
 
 <ul>
